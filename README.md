@@ -1,1 +1,0 @@
-# zemoga-challenge-frontend
